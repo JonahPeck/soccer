@@ -21,4 +21,4 @@ func main() {
 //need to set up api for socceeeerrrr
 //tomorrow i want to golf
 //need to code really really badly
-//cmon jeffery you can do it
+//I need to code
