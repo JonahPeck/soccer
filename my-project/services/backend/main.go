@@ -17,9 +17,3 @@ func main() {
 	log.Println("Server is available at http://localhost:8000")
 	log.Fatal(http.ListenAndServe(":8000", handler))
 }
-
-//need to set up api for socceeeerrrr
-//tomorrow i want to golf
-//need to code really really badly
-//I need to code today
-//i need to cooooode
